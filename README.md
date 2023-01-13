@@ -3,7 +3,9 @@ Daniel Ian M. Ibarbia
 ## i don't really know what to place here
 >``hi po! welcome to my profile <3``
 
-![wassup](https://i.pinimg.com/originals/29/20/df/2920dfb961923dfa38a38a3f62d27467.jpg)
+![wassup](https://i.pinimg.com/originals/88/70/1e/88701e6ef0ae647653438afb10e8f40b.jpg)
+
+![loveu](https://renote.net/files/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeWs0QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2836785f765ee23aae800399331a42753d5a33d8/004.jpg)
 
 
 >``la la la....``
