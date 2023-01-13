@@ -1,7 +1,7 @@
 # ayearl.github.io
 Daniel Ian M. Ibarbia
-## i don't really know what to place here
->``hi po! welcome to my profile <3``
+## ``hi po! welcome to my profile <3``
+>``discovering things unexpected from people you wouldn't expect them to enjoy.``
 
 ![wassup](https://i.pinimg.com/originals/88/70/1e/88701e6ef0ae647653438afb10e8f40b.jpg)
 
