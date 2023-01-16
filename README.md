@@ -1,6 +1,9 @@
 # ayearl.github.io
 Daniel Ian M. Ibarbia
 ## ``hi po! welcome to my profile <3``
+
+![??](https://i.pinimg.com/originals/fc/27/4a/fc274ab0f9eb7a104343f8e3e68f04f9.jpg)
+
 >``discovering things unexpected from people you wouldn't expect them to enjoy.``
 
 ![wassup](https://i.pinimg.com/originals/88/70/1e/88701e6ef0ae647653438afb10e8f40b.jpg)
@@ -12,6 +15,7 @@ Daniel Ian M. Ibarbia
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aeVa6WyGS7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
-# ``a song that i enjoy <3``
+
+> # ``a song that i enjoy <3``
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4KLZOU5V5XuEkvytSgyW6u?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
